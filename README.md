@@ -1,16 +1,30 @@
-## Hi there 👋
+# Zhanibek | StarVoid | HumptyDumpty
 
-<!--
-**ZSultanbek/ZSultanbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend / Infrastructure Engineer · Music Producer · Songwriter
 
-Here are some ideas to get you started:
+> **I make servers behave. I make songs misbehave.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎧 **NOW PLAYING**
+
+**`CODE, DEPLOY, REPEAT.`**
+
+Building backend systems, infrastructure, and APIs with **Go · Python · PostgreSQL · Docker · Linux**.
+
+When the servers are quiet, I'm writing songs, producing records, playing guitar, and pretending the mix is finally finished.
+
+---
+
+### 🔥 CURRENTLY
+
+`KBTU` — Information Systems, Senior Year
+`Backend` — Go / Python
+`Infrastructure` — Docker / Linux / CI/CD
+`Music` — Production / Songwriting / Guitar / Piano / Uke
+
+**13+ services deployed. A few albums made. Still shipping.**
+
+---
+
+`◀◀`  `▶`  `▶▶`    **Zhanibek — 2026**
